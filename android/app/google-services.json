@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "512877859491",
+    "project_id": "greenryshop",
+    "storage_bucket": "greenryshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:512877859491:android:0f9383166e5894d93ea516",
+        "android_client_info": {
+          "package_name": "com.greenery_shop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "512877859491-vpgisiple0d9fofl7l1586rg7bq95gjn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyASd7EqRnPBDkfR2O6mvnZ1CVTjGgmcSiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "512877859491-vpgisiple0d9fofl7l1586rg7bq95gjn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
